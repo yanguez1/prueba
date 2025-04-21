@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Canal Educativo FP DAM</title>
+  <link href="http://jorge.com/"/>
+  <updated>2025-04-21T12:00:00Z</updated>
+  <author>
+    <name>Jorge de Pablo</name>
+  </author>
+  <id>http://jorge.com/canal-atom</id>
+
+  <entry>
+    <title>Guía para Programar en Java</title>
+    <link href="http://jorge.com/guias/programacion"/>
+    <id>http://jorge.com/guias/programacion</id>
+    <updated>2025-04-20T15:00:00Z</updated>
+    <summary>Una guía básica para comenzar con programación en Java.</summary>
+    <author>
+      <name>Prof. Jesus</name>
+    </author>
+  </entry>
+
+</feed>
