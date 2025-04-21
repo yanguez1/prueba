@@ -19,4 +19,16 @@
     </author>
   </entry>
 
+<entry>
+  <title>Nuevo curso de Bases de Datos</title>
+  <link href="http://jorge.com/cursos/bases-de-datos"/>
+  <id>http://jorge.com/cursos/bases-de-datos</id>
+  <updated>2025-04-22T10:30:00Z</updated>
+  <summary>Se ha publicado un nuevo curso de introducción a Bases de Datos, disponible para todos los estudiantes.</summary>
+  <author>
+    <name>Prof. Roberto</name>
+  </author>
+</entry>
+
+  
 </feed>
