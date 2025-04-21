@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TechJorge</title>
+    <link>https://www.techjorge.com/</link>
+    <description>Últimas noticias en el mundo de activos digitales.</description>
+    <language>es</language>
+    <atom:link href="https://www.techjorge.com/rss.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>Apple presenta el nuevo iPhone 15</title>
+      <link>https://www.techjorge.com/apple-iphone-15</link>
+      <description>La compañía Apple ha presentado su nuevo modelo iPhone 15, con mejoras en cámara y rendimiento.</description>
+      <pubDate>Mon, 21 Apr 2025 10:00:00 GMT</pubDate>
+      <category>Móviles</category>
+      <guid>https://www.techjorge.com/apple-iphone-15</guid>
+    </item>
+
+    <item>
+      <title>Tendencias de inteligencia artificial en 2025</title>
+      <link>https://www.techjorge.com/tendencias-ia-2025</link>
+      <description>Un repaso a las principales tendencias que marcarán el desarrollo de la inteligencia artificial este año.</description>
+      <pubDate>Tue, 22 Apr 2025 14:00:00 GMT</pubDate>
+      <category>Inteligencia Artificial</category>
+      <guid>https://www.techjorge.com/tendencias-ia-2025</guid>
+    </item>
+
+  </channel>
+</rss>
